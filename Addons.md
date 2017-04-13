@@ -67,6 +67,7 @@
 * **Pobieranie:** [GitHub](https://github.com/iBlitzkriegi/Vixio/releases)
 * **Dyskusja:** [skUnity](https://forums.skunity.com/resources/vixio-1-0-8-the-best-discord-addon-on-the-market.19/)
 ---
+* Temat na forum: [url=https://skript.pl/temat/17657-lista-dodatk%C3%B3w-do-skript/]skript.pl[/url]
 * Lista dodatków zaczerpnięta z [skunity.com](https://skunity.com). 
 * Na liście zostały przedstawione tylko te dodatki, które są aktualizowane, mają temat i download
 * Zapraszam także na [oficjalny serwer Discord skUnity](https://discord.gg/q7UM6vJ), który zrzesza skrypterów i developerów dodatków
