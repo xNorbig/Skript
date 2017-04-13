@@ -40,13 +40,19 @@
 * **Dyskusja:** [skUnity](https://forums.skunity.com/resources/skellett-the-addon-with-a-beast-name.24/)
 ## skQuery
 * **Opis**: Najbardziej rozpoznawalny dodatek. Pozwala m.in. na tworzenie GUI i zarządzanie YML
-* **Autor:** [LimeGlass](https://forums.skunity.com/resources/authors/limeglass.15/), oryginalny autor, porzucił projekt: [destroyer4017](https://dev.bukkit.org/members/destroyer4017) 
+* **Autor:** aktualizuje: [LimeGlass](https://forums.skunity.com/resources/authors/limeglass.15/); oryginalny autor, porzucił projekt: [destroyer4017](https://dev.bukkit.org/members/destroyer4017) 
 * **Dokumentacja:** [skUnity](https://skunity.com/SkQuery)
 * **Pobieranie:** [skUnity](https://forums.skunity.com/resources/unofficial-skquery-fork-1-11-2.68/history)
 * **Dyskusja:** [skUnity](https://forums.skunity.com/resources/unofficial-skquery-fork-1-11-2.68/)
-## Skript
-* **Opis**: 
-* **Autor:** []()
-* **Dokumentacja:** [skUnity]()
-* **Pobieranie:** [skUnity]()
-* **Dyskusja:** [skUnity]()
+## SkRayFall
+* **Opis**: Wspiera kilka pluginów. Głównie obsługuje Citizens, scoreboardy i hologramy.
+* **Autor:** [eyesniper2](https://dev.bukkit.org/members/eyesniper2)
+* **Dokumentacja:** [skUnity](https://www.skunity.com/SkRayFall)
+* **Pobieranie:** [Bukkit](https://dev.bukkit.org/projects/skrayfall/files)
+* **Dyskusja:** [Bukkit](https://dev.bukkit.org/projects/skrayfall)
+## skUtilities
+* **Opis**: Bardzo obszerne zarządzanie plikami/tekstami i o wiele, wiele więcej!
+* **Autor:** [tim740](https://forums.skunity.com/resources/authors/tim740.19/)
+* **Dokumentacja:** [skUnity](https://www.skunity.com/SkStuff)
+* **Pobieranie:** [skUnity](https://forums.skunity.com/resources/skutilities.26/history)
+* **Dyskusja:** [skUnity](https://forums.skunity.com/resources/skutilities.26/)
