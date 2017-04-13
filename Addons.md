@@ -1,13 +1,6 @@
 # Lista dodatków do Skript
-###### lista dodatków zaczerpnięta z [skunity.com](https://skunity.com). ostatnia aktualizacja: 13 kwietnia
----
+###### [LargeSk](https://github.com/xNorbig/Skript/blob/master/Addons.md/#largesk) | [MundoSK](https://github.com/xNorbig/Skript/blob/master/Addons.md/#mundosk) | [SharpSK](https://github.com/xNorbig/Skript/blob/master/Addons.md/#sharpsk) | [SkDragon](https://github.com/xNorbig/Skript/blob/master/Addons.md/#skdragon) | [Skellet](https://github.com/xNorbig/Skript/blob/master/Addons.md/#skellet) | [skQuery](https://github.com/xNorbig/Skript/blob/master/Addons.md/#skquery) | [SkRayFall](https://github.com/xNorbig/Skript/blob/master/Addons.md/#skrayfall) | [skUtilities](https://github.com/xNorbig/Skript/blob/master/Addons.md/#skutilities) | [TuSKe](https://github.com/xNorbig/Skript/blob/master/Addons.md/#tuske) | [Umbaska](https://github.com/xNorbig/Skript/blob/master/Addons.md/#umbaska) | [Vixio](https://github.com/xNorbig/Skript/blob/master/Addons.md/#vixio)
 
-## Skript
-* **Opis**: 
-* **Autor:** []()
-* **Dokumentacja:** [skUnity]()
-* **Pobieranie:** [skUnity]()
-* **Dyskusja:** [skUnity]()
 
 ## LargeSk
 * **Opis**: Małe dodatki oraz API do pluginów [Advanced Anti Cheat](https://www.spigotmc.org/resources/aac-advanced-anti-cheat-hack-kill-aura-blocker.6442/) oraz [SkinsRestorer](https://www.spigotmc.org/resources/skinsrestorer.2124/).
@@ -56,3 +49,26 @@
 * **Dokumentacja:** [skUnity](https://www.skunity.com/SkStuff)
 * **Pobieranie:** [skUnity](https://forums.skunity.com/resources/skutilities.26/history)
 * **Dyskusja:** [skUnity](https://forums.skunity.com/resources/skutilities.26/)
+## TuSKe
+* **Opis**: Pozwala na m.in. zarządzanie gui, tworzenie nowych, własnych zaklęć czy zarządzanie przedmiotami w kowadle.
+* **Autor:** [Tuke_Nuke](https://www.spigotmc.org/resources/authors/tuke_nuke.98407/)
+* **Dokumentacja:** [skUnity](https://www.skunity.com/TuSKe)
+* **Pobieranie:** [skUnity]()
+* **Dyskusja:** [skUnity]()
+## Umbaska
+* **Opis**: Obsługa kilku różnych pluginów, zarządzanie spawnerami, scoreboardami, plikami i innymi.
+* **Autor:** [nfell2009](https://www.spigotmc.org/resources/authors/nfell2009.983/)
+* **Dokumentacja:** [skUnity](https://www.skunity.com/Umbaska)
+* **Pobieranie:** [skUnity](https://www.spigotmc.org/resources/addon-umbaska.7352/history)
+* **Dyskusja:** [skUnity](https://www.spigotmc.org/resources/addon-umbaska.7352/)
+## Vixio
+* **Opis**: Rozbudowana wtyczka do łączenia Discorda z serwerem dzięki Skript
+* **Autor:** [Blitz](https://forums.skunity.com/resources/authors/blitz.9/)
+* **Dokumentacja:** [skUnity](https://www.skunity.com/Vixio)
+* **Pobieranie:** [GitHub](https://github.com/iBlitzkriegi/Vixio/releases)
+* **Dyskusja:** [skUnity](https://forums.skunity.com/resources/vixio-1-0-8-the-best-discord-addon-on-the-market.19/)
+---
+###### lista dodatków zaczerpnięta z [skunity.com](https://skunity.com). 
+###### na liście zostały przedstawione tylko te dodatki, które są aktualizowane, mają temat i download
+###### zapraszam także na [serwer Discord](https://discord.gg/q7UM6vJ), który zrzesza skrypterów i developerów dodatków
+###### ostatnia aktualizacja: 16:30, 13 kwietnia
