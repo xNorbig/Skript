@@ -33,8 +33,20 @@
 * **Pobieranie:** [SpigotMC](https://www.spigotmc.org/resources/skript-addon-skdragon-v0-13-1-beta-free-emotes-particles-great-eula-perks.24173/history)
 * **Dyskusja:** [SpigotMC](https://www.spigotmc.org/resources/skript-addon-skdragon-v0-13-1-beta-free-emotes-particles-great-eula-perks.24173/)
 ## Skellet
-* **Opis**: Kolejny wielki dodatek, który wspiera wiele pluginów. Głównie obsługuje plugin Citizens, bossbar, MySQL i scoreboardy.
+* **Opis**: Kolejny wielki dodatek, który wspiera wiele pluginów. Głównie obsługuje plugin Citizens, MySQL i scoreboardy.
 * **Autor:** [LimeGlass](https://forums.skunity.com/resources/authors/limeglass.15/)
 * **Dokumentacja:** [skUnity](https://skunity.com/Skellett)
 * **Pobieranie:** [skUnity](https://forums.skunity.com/resources/skellett-the-addon-with-a-beast-name.24/history)
 * **Dyskusja:** [skUnity](https://forums.skunity.com/resources/skellett-the-addon-with-a-beast-name.24/)
+## skQuery
+* **Opis**: Najbardziej rozpoznawalny dodatek. Pozwala m.in. na tworzenie GUI i zarządzanie YML
+* **Autor:** [LimeGlass](https://forums.skunity.com/resources/authors/limeglass.15/), oryginalny autor, porzucił projekt: [destroyer4017](https://dev.bukkit.org/members/destroyer4017) 
+* **Dokumentacja:** [skUnity](https://skunity.com/SkQuery)
+* **Pobieranie:** [skUnity](https://forums.skunity.com/resources/unofficial-skquery-fork-1-11-2.68/history)
+* **Dyskusja:** [skUnity](https://forums.skunity.com/resources/unofficial-skquery-fork-1-11-2.68/)
+## Skript
+* **Opis**: 
+* **Autor:** []()
+* **Dokumentacja:** [skUnity]()
+* **Pobieranie:** [skUnity]()
+* **Dyskusja:** [skUnity]()
