@@ -13,7 +13,7 @@
 * **Pobieranie:** [skUnity](https://forums.skunity.com/resources/mundosk.69/history)
 * **Dyskusja:** [skUnity](https://forums.skunity.com/resources/mundosk.69/)
 ## SharpSK
-* **Opis**: Bardzo rozbudowany dodatek, wspierający wiele różnych pluginów. Jest też on kontynuacją [PirateSK](https://skunity.com/PirateSK).
+* **Opis**: Bardzo rozbudowany dodatek, wspierający wiele różnych pluginów. Jest też on kontynuacją nieaktualizowanej już wtyczki [PirateSK](https://skunity.com/PirateSK).
 * **Autor:** [Sharpjaws](https://forums.skunity.com/resources/authors/sharpjaws.108/)
 * **Dokumentacja:** [skUnity](https://skunity.com/SharpSK)
 * **Pobieranie:** [GitHub](https://github.com/Sharpjaws/SharpSK/releases)
